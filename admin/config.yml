@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: your-username/your-repo
+  repo: twzlgrap/twzlgrap.github.io
   branch: main
 
 media_folder: assets/uploads
