@@ -301,7 +301,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-  backend:
+backend:
    - name: github
    - repo: twzlgrap/twzlgrap.github.io
    - branch: main
