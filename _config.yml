@@ -2,7 +2,7 @@
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
 ### set up your website you should go through all these settings and edit them, but after
-### the initial set up you won't need to come back to this file often.
+### the initial set up you won't need to come  to this file often.
 ###########################################################
 
 ############################
@@ -131,7 +131,7 @@ navbar-var-length: false
 #keywords: "my,list,of,keywords"
 
 ######################################
-# --- Colours / background image --- #
+# --- Colours / ground image --- #
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
@@ -148,7 +148,7 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
-# Alternatively, the navbar, footer, and page background can be set to an image
+# Alternatively, the navbar, footer, and page ground can be set to an image
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
@@ -300,6 +300,12 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+
+  backend:
+    name: github
+    repo: twzlgrap/twzlgrap.github.io
+    branch: main
+    client_id: yIv23litZMSSyQwN8X9n4
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
