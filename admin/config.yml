@@ -2,7 +2,7 @@ backend:
   name: github
   repo: noisyvoltuk/noisyvoltuk.github.io
   branch: master
-  client_id: yIv23litZMSSyQwN8X9n4
+  client_id: Ov23lig83iglx0oNO7xF
 
 media_folder: assets/uploads
 public_folder: /assets/uploads
