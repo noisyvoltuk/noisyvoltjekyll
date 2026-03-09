@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: twzlgrap/twzlgrap.github.io
+  repo: noisyvoltuk/noisyvoltuk.github.io
   branch: master
   client_id: yIv23litZMSSyQwN8X9n4
 
