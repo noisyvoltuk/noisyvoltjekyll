@@ -22,8 +22,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Outdoor Power: "projects/gardenpower"
-    - Pond Filler: "projects/pondfiller"
+    - MIDI Drummer: "projects/mididrummer"
+    - Jasper Synth: "projects/jaspersynth"
+    - CSound Synth: "projects/csoundsynth"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
