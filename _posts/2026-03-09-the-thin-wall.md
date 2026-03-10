@@ -1,8 +1,14 @@
-
+---
+layout: post
+title: How to Play The Thin Wall
+subtitle:The Thin Wall by Ultravox
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [how to play, ultravox]
+author: Andy
 ---
 
-
----
 
 The Thin Wall is a fantastic choice — possibly the ultimate Ultravox synth showcase. And it works brilliantly without vocals.
 Here's why it's so good for your purposes:
