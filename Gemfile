@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 gem "jekyll-feed"
 gem "bigdecimal"
+gem "rake"
 
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
