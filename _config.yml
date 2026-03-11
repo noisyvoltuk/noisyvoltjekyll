@@ -308,7 +308,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+# Add this to your existing _config.yml
+# ─────────────────────────────────────────
+collections:
+  businesses:
+    output: true
+    permalink: /directory/:slug/
 
+# Optional: set default front matter so every
+# business file automatically uses the business layout
+defaults:
+  - scope:
+      path: ""
+      type: businesses
+    values:
+      layout: business
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
