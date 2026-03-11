@@ -3,7 +3,7 @@
 # Fields: name, category, emoji, description, address, phone, website
 
 - name: "Bastl Instruments"
-  key: "basti-instruments"
+  key: "bastl-instruments"
   category: "Synth DIY"
   emoji: "🥐"
   description: "Bastl instruments (est.2013) is a community driven company with a main focus on development and production of electronic musical instruments - from portable sound boxes, studio instruments or utilities to fully featured eurorack modular synthesizer systems. We take part in all sorts of community projects, such as organizing music-related events, a record label, workshops or even a clothing production. We are based in Brno, Czech republic."
