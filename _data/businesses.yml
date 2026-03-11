@@ -2,13 +2,13 @@
 # Add your businesses here. The directory page reads from this file.
 # Fields: name, category, emoji, description, address, phone, website
 
-- name: "The Golden Whisk"
-  category: "Food & Drink"
+- name: "Bastl Instruments"
+  category: "Synth DIY"
   emoji: "🥐"
-  description: "Artisan bakery and café serving freshly baked pastries, sourdough bread, and specialty coffee every morning."
+  description: "Bastl instruments (est.2013) is a community driven company with a main focus on development and production of electronic musical instruments - from portable sound boxes, studio instruments or utilities to fully featured eurorack modular synthesizer systems. We take part in all sorts of community projects, such as organizing music-related events, a record label, workshops or even a clothing production. We are based in Brno, Czech republic."
   address: "12 Market Street"
   phone: "01234 567890"
-  website: "https://example.com"
+  website: "https://bastl-instruments.com/"
 
 - name: "Bloom Florist"
   category: "Retail"
