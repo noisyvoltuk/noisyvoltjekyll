@@ -1,0 +1,43 @@
+# _data/businesses.yml
+# Add your businesses here. The directory page reads from this file.
+# Fields: name, category, emoji, description, address, phone, website
+
+- name: "The Golden Whisk"
+  category: "Food & Drink"
+  emoji: "🥐"
+  description: "Artisan bakery and café serving freshly baked pastries, sourdough bread, and specialty coffee every morning."
+  address: "12 Market Street"
+  phone: "01234 567890"
+  website: "https://example.com"
+
+- name: "Bloom Florist"
+  category: "Retail"
+  emoji: "🌸"
+  description: "Hand-tied bouquets, seasonal arrangements, and dried flower installations for every occasion."
+  address: "5 High Street"
+  phone: "01234 567891"
+  website: "https://example.com"
+
+- name: "Apex Fitness"
+  category: "Health & Wellness"
+  emoji: "🏋️"
+  description: "Modern gym with personal training, group classes, and nutrition coaching. Open 6am–10pm daily."
+  address: "Unit 3, Riverside Park"
+  phone: "01234 567892"
+  website: "https://example.com"
+
+- name: "Pixel & Print"
+  category: "Services"
+  emoji: "🖨️"
+  description: "Design studio offering branding, print, and digital services for small businesses and startups."
+  address: "8 Canal Quarter"
+  phone: "01234 567893"
+  website: "https://example.com"
+
+- name: "The Book Nook"
+  category: "Retail"
+  emoji: "📚"
+  description: "Independent bookshop specialising in local history, fiction, and children's books. Author events monthly."
+  address: "22 Church Lane"
+  phone: "01234 567894"
+  website: "https://example.com"
