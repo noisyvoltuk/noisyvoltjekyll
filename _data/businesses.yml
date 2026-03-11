@@ -12,6 +12,7 @@
   website: "https://bastl-instruments.com/"
 
 - name: "Bloom Florist"
+  key: "bloom-florist"
   category: "Retail"
   emoji: "🌸"
   description: "Hand-tied bouquets, seasonal arrangements, and dried flower installations for every occasion."
@@ -20,6 +21,7 @@
   website: "https://example.com"
 
 - name: "Apex Fitness"
+  key: "apex-fitness"
   category: "Health & Wellness"
   emoji: "🏋️"
   description: "Modern gym with personal training, group classes, and nutrition coaching. Open 6am–10pm daily."
@@ -28,6 +30,7 @@
   website: "https://example.com"
 
 - name: "Pixel & Print"
+  key: "pixel-print"
   category: "Services"
   emoji: "🖨️"
   description: "Design studio offering branding, print, and digital services for small businesses and startups."
@@ -36,6 +39,7 @@
   website: "https://example.com"
 
 - name: "The Book Nook"
+  key: "the-book-nook"
   category: "Retail"
   emoji: "📚"
   description: "Independent bookshop specialising in local history, fiction, and children's books. Author events monthly."
