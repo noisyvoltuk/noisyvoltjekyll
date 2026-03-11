@@ -18,5 +18,7 @@ end
 
 gem "jekyll", "~> 4.4.1", require: false
 
+gem "em-websocket", "~> 0.5.2"
+
 gemspec
 
