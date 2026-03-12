@@ -29,14 +29,14 @@
   phone: "01234 567892"
   website: "https://www.expert-sleepers.co.uk/"
 
-- name: "Pixel & Print"
-  key: "pixel-print"
+- name: "Analogue Solutions"
+  key: "analogue-solutions"
   category: "Services"
   emoji: "🖨️"
-  description: "Design studio offering branding, print, and digital services for small businesses and startups."
+  description: "Analogue Solutions: music electronics for electronic musicians"
   address: "8 Canal Quarter"
   phone: "01234 567893"
-  website: "https://example.com"
+  website: "https://www.analoguesolutions.com"
 
 - name: "The Book Nook"
   key: "the-book-nook"
