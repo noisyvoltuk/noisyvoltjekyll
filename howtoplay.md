@@ -13,10 +13,10 @@ just some guff
 some midi files
 copyright giff
 
-[MIDI Files]({{ site.baseurl }}{% resources/midifiles.md %})
+[MIDI Files]({{ site.baseurl }}{% link resources/midifiles.md %})
 
 
 some samples
 copyright giff
 
-[Sample collection]({{ site.baseurl }}{% resources/samples.md %})
+[Sample Collection]({{ site.baseurl }}{% link resources/samples.md %})
