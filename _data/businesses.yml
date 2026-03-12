@@ -38,11 +38,11 @@
   phone: "01234 567893"
   website: "https://www.analoguesolutions.com"
 
-- name: "The Book Nook"
-  key: "the-book-nook"
-  category: "Retail"
+- name: "Music Thing Modular"
+  key: "music-thing-modular"
+  category: "Synth DIY"
   emoji: "📚"
-  description: "Independent bookshop specialising in local history, fiction, and children's books. Author events monthly."
+  description: "Open source electronic musical instruments. Designed in London, made in Brighton, built and used by musicians around the world."
   address: "22 Church Lane"
   phone: "01234 567894"
-  website: "https://example.com"
+  website: "https://www.musicthing.co.uk/
