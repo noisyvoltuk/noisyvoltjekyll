@@ -26,9 +26,7 @@ navbar-links:
     - CSound Synth: "projects/csoundsynth"
     - Mozzi Synth: "projects/mozzisynth"
     - Sample player: "projects/sampleplayer"
-  Resources:
-    - YouTube: "https://www.youtube.com/@noisyvolt1383"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Blog: "blog"
   How to Play: "howtoplay"
   RagTagMod: "ragtagmod"
   Directory: "directory"
